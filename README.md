@@ -46,10 +46,10 @@ This module involved identifying my local network configuration and performing h
 
 | Network Detail | Result |
 |---|---|
-| Local IP Address | 192.168.0.8 |
-| LAN Subnet | 192.168.0.0/24 |
-| Subnet Mask | 255.255.255.0 |
-| Default Gateway | 192.168.0.1 |
+| Local IP Address | [REDACTED] |
+| LAN Subnet | [REDACTED] |
+| Subnet Mask | [REDACTED] |
+| Default Gateway | [REDACTED] |
 | Live Hosts Discovered | 5 |
 
 ## Tools & Technologies
