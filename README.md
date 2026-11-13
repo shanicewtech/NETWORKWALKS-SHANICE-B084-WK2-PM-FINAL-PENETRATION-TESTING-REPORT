@@ -6,7 +6,6 @@
 **Programme:** Networkwalks Cybersecurity Internship
 
 ---
-
 ## Project Overview
 
 This repository documents my Week 2 practical activities as part of the Networkwalks Cybersecurity Internship (Batch B084).
