@@ -68,16 +68,25 @@ This module involved identifying my local network configuration and performing h
 ## Repository Structure
 
 ```text
-NETWORKWALKS-SHANICE-B084-WK2-PM-FINAL/
+NETWORKWALKS-SHANICE-B084-WK2-PM-FINAL-PENETRATION-TESTING-REPORT/
 │
 ├── README.md
 ├── W2-PM-FINAL-Report.pdf
 │
-├── W2-PM1-Footprinting/
-│   └── Evidence/
-│
-└── W2-PM5-Network-Scanning/
-    └── Evidence/
+└── Evidence/
+    ├── W2-PM1-Footprinting/
+    │   ├── WHOIS.png
+    │   ├── WhatWeb.png
+    │   ├── NSLookup.png
+    │   ├── cURL.png
+    │   ├── WAFW00F.png
+    │   └── DNSRecon.png
+    │
+    └── W2-PM5-Network-Scanning/
+        ├── Task-2-IP-Configuration.png
+        ├── Task-3-Host-Discovery.png
+        ├── Task-6-MAC-Addresses.png
+        └── Task-7-Network-Topology.pdf
 ```
 
 ## Key Learning Outcomes
